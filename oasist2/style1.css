@@ -1,0 +1,239 @@
+@font-face {
+    font-family: fonttt;
+    src: url(RubiksCube-BPKV.ttf);
+}
+@font-face {
+    font-family: fontmm;
+    src: url(MinecraftTen-VGORe.ttf);
+}
+.header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15%;
+    width: 100%;
+    background-color: #539165;
+}
+.mig{
+    position: absolute;
+    top: 15%;
+    left: 0;
+    height: 220%;
+    width: 100%;
+    background-color: #3F497F;
+
+}
+
+
+
+    
+
+.tit{
+    position: absolute;
+    color: rgb(35, 35, 36);
+    left: 20%;
+    top: 5px;
+    font-family: fonttt;
+    font-size: 55px;
+}
+.himg{
+    position: absolute;
+    top: 10px;
+    right: 436px;
+    height: 100px;
+}
+.nameh{
+    position: absolute;
+    color: #F7C04A;
+    top: 500px;
+    left: 290px;
+    font-family: fontmm;
+    font-size: 70px;
+}
+.hobbb{
+    position: absolute;
+    text-decoration: line-through;
+    font-family: fontmm;
+    font-size: 100px;
+    top: 50px;
+    right: 200px;
+}
+.hobbies{
+    position: absolute;
+    font-family: fontmm;
+    font-size: 50px;
+    top: 200px;
+    right: 200px;
+}
+.hobimg{
+    height: 100px;
+    position: absolute;
+    right: 100px;
+    top: 130px;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.music{
+    height: 50px;
+    position: absolute;
+    right: 570px;
+    top: 250px;
+
+}
+.books{
+    height: 50px;
+    position: absolute;
+    right: 575px;
+    top: 310px;
+
+}
+.anime{
+    height: 45px;
+    position: absolute;
+    right: 575px;
+    top: 365px;
+
+}
+.coding{
+    height: 45px;
+    position: absolute;
+    right: 575px;
+    top: 415px;
+
+}
+.gym{
+    height: 45px;
+    position: absolute;
+    right: 575px;
+    top: 470px;
+
+}
+.info{
+    height: 45px;
+    position: absolute;
+    left: 610px;
+    top: 135px;
+
+}
+.comment{
+    height: 150px;
+    width: 250px;
+    position: absolute;
+    left: 610px;
+    top: 0px;
+
+}
+.bscinfo{
+    font-family: fontmm;
+    font-size: 18px;
+    color: #F7C04A;
+    position: absolute;
+    left: 640px;
+    top: 20px;
+
+}
+.indd{
+    color: red;
+    text-decoration: underline;
+
+}
+.lu{
+    height: 300px;
+    position: absolute;
+    left: 130px;
+}
+.img3{
+    position: absolute;
+    top: 32px;
+    left: 300px;}
+.lvll{
+    color: black;
+}
+.hexchat{
+    position: relative;
+    top: 870px;
+    height: 650px;
+}
+.skills{
+    position: relative;
+    text-decoration: underline;
+
+    font-family: fontmm;
+    font-size: 100px;
+    left: 100px;
+    top: 30px;
+}
+.python{
+    position: relative;
+    top: 560px;
+    left: 610px;
+    height: 50px;
+}
+.java{
+    position: relative;
+    top: 560px;
+    left: 295px;
+    height: 50px;
+}
+.js{
+    position: relative;
+    top: 360px;
+    left: 85px;
+    height: 50px;
+}
+.css{
+    position: relative;
+    top: 360px;
+    left: 600px;
+    height: 50px;
+}
+.html{
+    position: relative;
+    top: 95px;
+    left: 45px;
+    height: 50px;
+}
+.sql{
+    position: relative;
+    top: 95px;
+    left: 430px;
+    height: 50px;
+}
+.blcc{
+    position: relative;
+    top: 3px;
+    left: 165px;
+    height: 50px;
+}
+.gmail{
+    position: absolute;
+    top: 1500px;
+    right: 10px;
+    height: 50px;
+}
+.ln{
+    position: absolute;
+    top: 1500px;
+    right: 80px;
+    height: 50px;
+}
+.insta{
+    position: absolute;
+    top: 1500px;
+    right: 150px;
+    height: 50px;
+}
+.fb{
+    position: absolute;
+    top: 1500px;
+    right: 220px;
+    height: 50px;
+}
+.pen{
+    position: absolute;
+    height: 100px;
+    left: 950px;
+    top: 750px;
+}
+
+
